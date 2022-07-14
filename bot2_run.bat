@@ -4,7 +4,7 @@ call %~dp0ytubeparseBot\venv\Scripts\activate
 
 cd %~dp0ytubeparseBot
 
-set TOKEN=secret
+set TOKEN=your token
 
 python ytubeparseBot.py
 
