@@ -4,7 +4,7 @@ call %~dp0telegram_bot\venv\Scripts\activate
 
 cd %~dp0telegram_bot
 
-set TOKEN=secret number 2
+set TOKEN=your token
 
 python inline.py
 
